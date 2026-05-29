@@ -3,6 +3,10 @@
 # dependencies
 node_modules/
 
+.claude/
+CLAUDE.md
+AGENTS.md
+
 # Expo
 .expo/
 dist/
